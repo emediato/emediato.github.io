@@ -1,6 +1,6 @@
 My html CV is here: 
 
-# emediato.github.io
+# # emediato.github.io
 
 
-# # My CV can be download in this repo also. =)
+# My CV can be download in this repo also. =)
